@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harsh I am a first year student of Conmputer Science 
+- 👋 Hi, I’m Harsh I am a first year student of Computer Science 
 - 👀 I’m interested in Web Develpment, Web 3 and Machine Learning
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
