@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-- Twitter : @hloharsh
-- My Instagram : https://www.instagram.com/just_harsh06/?hl=en
+- Twitter : @geeky1_harsh
+- 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am interested in web development still i am learning cpp coz it is in my syllabus of college.
 
