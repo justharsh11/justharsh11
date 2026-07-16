@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - Twitter : @geeky1_harsh
-- 
+- LinkedIN : www.linkedin.com/in/harshsinghits
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am interested in web development still i am learning cpp coz it is in my syllabus of college.
 
